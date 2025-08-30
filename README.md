@@ -30,5 +30,3 @@ This project is part of a workshop that demonstrates a complete data workflow, s
 - **`main.py`** → Orchestrates the pipeline, running extraction → transformation → loading.  
 - **`KPIs.ipynb`** → Notebook with exploratory analysis and KPI visualizations.  
 
-## Conclusion
-This workshop demonstrates how to transform raw CSV data into a structured dimensional model in MySQL, using a simple but effective ETL pipeline. From there, meaningful KPIs can be extracted to better understand hiring trends.
